@@ -5,10 +5,12 @@ Product Manager with 9+ years in SaaS, based in Espoo, Finland. I've owned onlin
 🌐 **Portfolio:** [indhu-natarajan.github.io/my-website](https://indhu-natarajan.github.io/my-website/myprofile.html)
 💼 **LinkedIn:** [linkedin.com/in/indhu-nataraj-pm](https://www.linkedin.com/in/indhu-nataraj-pm)
 
-## Projects
+## Projects & case studies
 
 - **[AI Job Application Tracker](https://github.com/indhu-natarajan/job-application-tracker)**: an n8n workflow that reads job-application emails in English and Finnish, classifies them with AI, and keeps a Google Sheet tracker up to date.
 - **[RAG Simulator](https://indhu-natarajan.github.io/my_rag_simulator/rag-simulator-ikea.html)**: an interactive, step-by-step simulator showing how a support assistant answers from help-centre articles.
+- **[Oura: Custom Tag Insights](https://oura-custom-tag-insights.lovable.app)**: a product case study and clickable prototype for surfacing patterns in members' own custom tags (unofficial concept).
+- **[LinkedIn: PRD Case Study](https://pixel-perfect-showcase-7419.lovable.app)**: a product case study with a PRD and prototype for a LinkedIn feature.
 - **[Portfolio website](https://github.com/indhu-natarajan/my-website)**: my profile site, built with AI assistance.
 
 ## What I'm learning
